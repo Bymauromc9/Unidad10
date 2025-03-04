@@ -1,4 +1,4 @@
-package com.example.ejercicio6;
+package com.example.ejercicio7;
 
 public class Main {
     public static void main(String[] args) throws Exception {
