@@ -12,7 +12,7 @@ public class Gato {
     }
     public void setNombre(String nombre)throws Exception{
         if(nombre==null || nombre.length()<3)
-            throw new Exception("ERROR. El nombre edebe tener al menos 3 caracteres");
+            throw new Exception("ERROR. El nombre debe tener al menos 3 caracteres");
         this.nombre=nombre;
     }
     public int getEdad() {
